@@ -70,11 +70,12 @@ Method #2 (Finished but buggy)
 https://chatgpt.com/share/681bb07c-73b4-800b-8b43-2738d99366c3 (THIS IS THE CHAT I USE ASK IF YOU ANY QUESTIONS)
 
 1. Dowload Hugin (MAKE SURE IT WORKS: RECOMENDED ON WINDOWS BUT CAN WORK ON MAC)
-2. USE OPEN.PY and when using this program (IT IS RECOMENDED THAT YOU TAKE AROUND 4-6 IMAGES AT MOST FOR THE BEST RESULTING PANRORAMA IN 45 DEGREE INCREMENTS)
-3. TO SAVE A IMAGE press c for capture and q for compiling (MAKE SURE YOU ARE ON THE TAB OF THE WEBCAM)
-4. (VERY IMPORTANT) when hugin is open set lens type to fisheye lens and set hfov to 180 degrees
+2. https://chatgpt.com/share/681bbcf5-4740-800b-8530-5ed676fe143e (use to set up path for hugin on windows/mac)
+3. USE OPEN.PY and when using this program (IT IS RECOMENDED THAT YOU TAKE AROUND 4-6 IMAGES AT MOST FOR THE BEST RESULTING PANRORAMA IN 45 DEGREE INCREMENTS)
+4. TO SAVE A IMAGE press c for capture and q for compiling (MAKE SURE YOU ARE ON THE TAB OF THE WEBCAM)
+5. (VERY IMPORTANT) when hugin is open set lens type to fisheye lens and set hfov to 180 degrees
 (OPTIONAL I NEVER TRIED THIS BUT YOU CAN TRY TO MANUALLY PULL THE LENS INFORMATION ON TOP LEFT CORNER TO HAVE THE SPECIFIC SPEFICATIONS OF THE FISHEYE LENS)
-5. FINAL STEP ON THE LEFT SIDE OF THE SCREEN on the option panosphere select (inside)
+6. FINAL STEP ON THE LEFT SIDE OF THE SCREEN on the option panosphere select (inside)
 
 Now you must be wondering why there duplicates or parts missing.
 -if there are there duplicates that means there is to much information such as to many photos
