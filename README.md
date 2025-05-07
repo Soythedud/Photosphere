@@ -27,6 +27,8 @@ Method #1 of creating a photosphere (unfinished)
  (A matrix is required in OpenCV for lens distortion correction because it represents the intrinsic parameters of the camera, including focal length and principal point, which are crucial for accurately projecting 3D points onto the 2D image plane.)
 
  ---------------------------------SEPERATION BAR-------------------------------------
+
+
 camera_matrix = np.array([
     [541.056195, 0.0, 1013.64961],
     [0.0, 543.349657, 537.574495],
