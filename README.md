@@ -14,6 +14,8 @@ A 360 photosphere is a 360-degree image that captures the entire surrounding env
 
 Hugin Dowload: https://sourceforge.net/projects/hugin/files/latest/download
 # also big tip remember that the images must be placed in a certain order when compiled as the fisheye camera are back to back (the code has the pattern added already so dont worry)
+[c2_5, c1_0, c2_0, c1_1, c2_1, c1_2, c2_2, c1_3, c2_3, c1_4, c2_4, c1_5]
+follows something similar to this 
 
 (additionally if you are using mac, you need to somehow bypass the privacy security and further adjustments must be made to use the code as windows and mac sees pixels differently (so the diemsions of the code MUST be changed))
 
